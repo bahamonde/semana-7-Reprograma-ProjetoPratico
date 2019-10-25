@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "037d6e9c-5d7b-4607-8a57-8e3ac0306c9b",
+		"name": "tarefasDoPostman",
+		"description": "Retorno json do back",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "tarefas list",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "retornando pelo id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
